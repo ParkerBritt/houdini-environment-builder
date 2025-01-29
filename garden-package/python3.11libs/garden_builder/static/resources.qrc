@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons/dist_edit.svg</file>
+        <file>icons/dist_erase.svg</file>
+        <file>icons/dist_point.svg</file>
+        <file>icons/dist_region.svg</file>
+        <file>icons/down_arrow_8x.png</file>
+        <file>icons/down_arrow_16x.png</file>
+        <file>icons/file_8x.png</file>
+        <file>icons/node_8x.png</file>
+    </qresource>
+</RCC>
+

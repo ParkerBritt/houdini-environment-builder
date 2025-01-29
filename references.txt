@@ -1,0 +1,30 @@
+David Goodger and Guido van Rossum, 2024. PEP 257 – Docstring Conventions. Available from: https://peps.python.org/pep-0257/ [Accessed 24 January 2025].
+
+Geeks for Geeks, 2024. Python Docstrings. Available from: https://www.geeksforgeeks.org/python-docstrings/ [Accessed 24 January 2025].
+
+Hallam's Echo Chamber, 2024. Turn Copernicus into a Heightfield | Houdini Tutorial. San Bruno, California. Available from: https://youtu.be/-zGjD4zaYMU?si=1pT1XQkydboMldia [Accessed 24 January 2025].
+
+Houdini, 2024. The Ultimate Copernicus Guide | Every COP Node Explained. San Bruno, California. Available from: https://youtu.be/ZPL215vfNwg?si=34Nk21Qfn8pQtbAP [Accessed 24 January 2025].
+
+Indie-Pixel, 2020. Houdini 18 Basics - Creating Custom Help Cards for your Houdini Digital Assets. San Bruno, California. Available from: https://www.youtube.com/watch?v=NxT_L7Y3ehk [Accessed 24 January 2025].
+
+Peter Prickarz, 2020. Houdini: Python Viewer State - Interactive curve point rotation and scaling - Tutorial. San Bruno, California. Available from: https://www.youtube.com/watch?v=2XIIEhgcWMQ [Accessed 24 January 2025].
+
+Python, 2025. Logging — Logging facility for Python. Available from: https://docs.python.org/3/library/logging.html [Accessed 24 January 2025].
+
+Qt Group Plc, n.d. PySide2.QtWidgets. Espoo, Finland. Available from: https://doc.qt.io/qtforpython-5/PySide2/QtWidgets/index.html [Accessed 24 January 2025].
+
+Qt Group Plc, n.d. PySide6.QtWidgets. Espoo, Finland. Available from: https://doc.qt.io/qtforpython-6/PySide6/QtWidgets/index.html [Accessed 24 January 2025].
+
+Rafaels, 2013. Where can I find the icons shipped with houdini? Toronto, Ontario, Canada. Available from: https://www.sidefx.com/forum/topic/29017/?page=1 [Accessed 24 January 2025].
+
+SideFX, n.d. Expression functions. Toronto, Canada. Available from: https://www.sidefx.com/docs/houdini/expressions/index.html [Accessed 24 January 2025].
+
+SideFX, n.d. hou package. Toronto, Canada. Available from: https://www.sidefx.com/docs/houdini/hom/hou/index.html [Accessed 24 January 2025].
+
+SideFX, n.d. VEX Functions. Toronto, Canada. Available from: https://www.sidefx.com/docs/houdini/vex/functions/index.html [Accessed 24 January 2025].
+
+SideFX, n.d. Wiki markup reference. Toronto, Canada. Available from: https://www.sidefx.com/docs/houdini/help/format.html#tables [Accessed 24 January 2025].
+
+SideFX, sidefx_stroke [computer program]. Toronto, Canada: SideFX.
+

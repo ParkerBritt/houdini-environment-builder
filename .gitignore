@@ -1,0 +1,8 @@
+package/otls/backup
+packages/package.json
+backup
+galleries
+*_recovered.hipnc
+garden-package/textures
+renders
+__pycache__

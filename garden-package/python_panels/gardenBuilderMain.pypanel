@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pythonPanelDocument>
+  <!-- This file contains definitions of Python interfaces and the
+ interfaces menu.  It should not be hand-edited when it is being
+ used by the application.  Note, that two definitions of the
+ same interface or of the interfaces menu are not allowed
+ in a single file. -->
+  <interface name="gardenBuilderMain" label="Garden Builder Interface" icon="SHELF_tree_conifer" showNetworkNavigationBar="false" help_url="">
+    <script><![CDATA[from garden_builder import panel
+from importlib import reload
+reload(panel)
+from garden_builder import panel
+main_panel = None
+
+from PySide2 import QtWidgets, QtGui
+
+def onCreateInterface():
+    global main_panel
+
+    main_panel = panel.MyPanel()
+    return main_panel
+
+def onActivateInterface():
+    global main_panel
+    main_panel.onActivate(kwargs)
+
+def onDeactivateInterface():
+    global main_panel
+    main_panel.onDeactivate()
+
+def onDestroyInterface():
+    global main_panel
+    main_panel.onDestroy()
+    main_panel = None
+
+def onNodePathChanged(node):
+    global main_panel
+    main_panel.onNodePathChanged(node)
+]]></script>
+    <includeInToolbarMenu menu_position="202" create_separator="false"/>
+    <showInParametersPane optype="parker::Sop/garden_builder::1.0"/>
+    <help><![CDATA[]]></help>
+  </interface>
+</pythonPanelDocument>

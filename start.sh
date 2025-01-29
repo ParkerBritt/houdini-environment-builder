@@ -23,4 +23,4 @@ echo "{
 
 
 export HOUDINI_PACKAGE_DIR="${packages_dir}"
-goHoudini20.5
+houdini

@@ -6,6 +6,7 @@
 
 <image src="screenshots/example_render.jpg">
 
+
 # Overview
 Houdini Garden Builder is a powerful node for styling terrain, populating a scene with repeated elements, and rendering the resulting geometry in an accessible way.
 It combines tools for terrain generation, plant placement, stage material assignment, and rendering settings.
@@ -16,7 +17,8 @@ Use this node to quickly set up a detailed environment for landscapes or garden 
 
 
 # Usage
-<image src="screenshots/usage_01.jpg">
+https://github.com/user-attachments/assets/7374495a-8637-41f1-91c0-32991673c540
+
 
 #### I designed this tool to be accessible even for beginners of Houdini. With this tool you can:
 
